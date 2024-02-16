@@ -38,7 +38,7 @@ public class Inicio {
 		System.out.println("hora = " + hora);
 		System.out.println("minuto = " + minuto);
 		System.out.println("segundo = " + segundo);
-		System.out.println("semana en el mes = " + semana);
+		System.out.println("dis de la semana = " + semana);
 		System.out.println("dia del año = " + diaAnio);
        
 	}
